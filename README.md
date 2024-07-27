@@ -53,7 +53,7 @@ Customization
 
 You can customize the styling of the app by modifying the CSS in the st.markdown section of the app.py file. You can also update the mock data generation prompt to include more specific or different information.
 
-Video Link - https://youtu.be/juWUw1QJy-c
+Video Link - https://youtu.be/7qPMBYCZrLE
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
